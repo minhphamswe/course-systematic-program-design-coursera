@@ -2031,7 +2031,7 @@
 111 150 -1 -1 2 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 -1 -1 -1 -1 -1 0 0 0 0 0 1 0.0 0.0 0.0 0.0 0.0 0.0 255 165 0 63
-111 150 -1 -1           0 567 0 4 3 85
+111 150 -1 -1           0 565 0 4 3 85
 (
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -2823,8 +2823,6 @@
 0 0 23 29 1 #"\n"
 0 0 17 3 36 #";; increase object size and argument"
 0 0 23 29 1 #"\n"
-0 0 17 3 6 #";; !!!"
-0 0 23 29 1 #"\n"
 0 0 23 3 1 #"("
 0 0 14 3 12 #"check-expect"
 0 0 23 3 2 #" ("
@@ -2942,8 +2940,6 @@
 0 0 23 29 1 #"\n"
 0 0 17 3 58
 #";; place appropriate object image at CENTER-X and CENTER-Y"
-0 0 23 29 1 #"\n"
-0 0 17 3 6 #";; !!!"
 0 0 23 29 1 #"\n"
 0 0 23 3 1 #"("
 0 0 14 3 12 #"check-expect"
@@ -3124,6 +3120,8 @@
 0 0 17 3 45 #";; reset object to original argument and size"
 0 0 23 29 1 #"\n"
 0 0 17 3 6 #";; !!!"
+0 0 23 29 1 #"\n"
+0 0 23 29 1 #"\n"
 0 0 23 29 1 #"\n"
 0 0 23 3 1 #"("
 0 0 15 3 6 #"define"
